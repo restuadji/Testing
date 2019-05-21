@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Element Select</title>
+</head>
+	<body>
+		<form action="/action_page.php" method="post">
+			<!-- method="get" maka akan terlihat sumber inputannya, sedangkan method="post" makan  sumber inputannya tidak terlihat !-->
+			<select name="Anggota Akatsuki">
+				<option value="hiddan">Hiddan</option>
+				<option value="pain">Pain</option>
+				<option value="konan">Konan</option>
+				<option value="kisame" selected>Kisame</option>
+			</select>
+			<br>
+			<textarea name="Message" rows="3" cols="30">
+				Lanjutan setelah tulisan inputan submit
+			</textarea>
+			<input type="text" name="MessageDisabled" value="Tidak Terkirim" disabled>
+			</textarea>
+			<input type="submit" name="Submit">
+		</form>
+	</body>
+</html>

@@ -1,0 +1,58 @@
+.header{
+	width: 100%;
+	text-align: center;
+	border: 1px solid black;
+	float: left;
+	background-color: black;
+	font-style: italic;
+	color: white;
+}
+.navbar{
+	width: 100%;
+	text-align: center;
+	border: 1px solid black;
+	background-color: white;
+	color: white;
+}
+
+.content{
+	width: 100%;
+}
+.kanan{
+	width: 69.7%;
+	float: right;
+	height: 500px;
+	border: 1px solid white;
+	background-color: black;
+	font-style: initial;
+	color: white;
+}
+.biodata{
+	width: 100%;
+	text-align: center;
+	font-style: italic;
+	color: white;
+}
+.foto{
+	width: 100%;
+}
+.kiri{
+	width: 30%;
+	height: 500px;
+	float: left;
+	border: 1px solid black;
+	text-align: left;
+	background-color: black;
+	font-style: initial;
+	color: white;
+}
+.footer{
+	width: 100%;
+	height: 40px;
+	float: left;
+	border: 1px solid white;
+	text-align: center;
+	background-color: black;
+	font-style: initial;
+	color: white;
+}

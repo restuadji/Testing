@@ -1,0 +1,39 @@
+.header{
+	width: 100%;
+	text-align: center;
+	border: 1px solid #ff0066;
+	float: left;
+	background-color: #ff0066;
+	font-style: italic;
+	color: white;
+}
+.content{
+	width: 100%;
+}
+.footer{
+	width: 100%;
+	float: left;
+	border: 1px solid;
+	text-align: center;
+	background-color: #ff0000;
+	font-style: initial;
+	color: white;
+}
+.main{
+	width: 69.6%;
+	float: left;
+	border: 1px solid #0000ff;
+	text-align: center;
+	background-color: #0000ff;
+	font-style: initial;
+	color: white;
+}
+.second{
+	width: 30%;
+	float: right;
+	border: 1px solid #6600ff;
+	text-align: center;
+	background-color: #6600ff;
+	font-style: initial;
+	color: white;
+}
